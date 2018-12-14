@@ -74,7 +74,7 @@ function welcome_screen
 	echo "                                                                                               ";
 
     echo ""
-    echo "                                        By Joel Parks                                "
+    echo "                                        By bash-man                                "
     echo "                                                                                                     "
     echo ""      
     echo ""                                  
@@ -88,7 +88,7 @@ function welcome_screen
     echo "@@ certain portions of this script, in particular the exim queue check                    @@"
     echo "@@ as well as any domlog diving (basically anything below the safe option).               @@"
     echo "@@                                                                                        @@"
-    echo "@@ Please email jparks@liquidweb for comments and suggestions.                            @@"
+    echo "@@ Please email technologyreborn@gmail for comments and suggestions.                      @@"
     echo "@@                                                                                        @@"
     echo "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
     echo -e "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$NoColor"
